@@ -27,6 +27,7 @@
   "devDependencies": {
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
-    "@types/react-dom": "19.0.3"
+    "@types/react-dom": "19.0.3",
+    "@types/bcryptjs": "^2.4.6"
   }
 }
