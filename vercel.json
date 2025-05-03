@@ -1,0 +1,4 @@
+{
+  "buildCommand": "pnpm approve-builds bcrypt --all && pnpm run build",
+  "installCommand": "pnpm install"
+}
