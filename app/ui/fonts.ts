@@ -1,7 +1,7 @@
-import { Inter, Lusitana } from "next/font/google";
+import { Inter, Montserrat } from "next/font/google";
 
 export const inter = Inter({ subsets: ["latin"] });
-export const lusitana = Lusitana({
+export const lusitana = Montserrat({
   subsets: ["latin"],
   weight: ["400", "700"],
 });
